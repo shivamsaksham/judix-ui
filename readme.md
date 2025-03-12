@@ -1,5 +1,10 @@
 # Judix UI CLI Commands
 
+## Install Cli
+```bash
+npm i judix-cli
+```
+
 ## Install Components
 
 ### Button
