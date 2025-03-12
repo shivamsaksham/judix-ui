@@ -1,7 +1,7 @@
 "use client"
 import { cva, VariantProps } from "class-variance-authority";
 import React from "react";
-import {cn} from "../utils/cn_tw_merger"
+import {cn} from "../../utils/cn_tw_merger"
 import { Icon } from "judix-icon";
 import { IconProps } from "judix-icon/dist/Icon";
 
