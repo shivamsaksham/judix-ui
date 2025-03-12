@@ -5,6 +5,11 @@
 npm i judix-cli
 ```
 
+## Init Judix-UI
+```bash
+judix-cli init
+```
+
 ## Install Components
 
 ### Button
