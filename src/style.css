@@ -129,6 +129,9 @@
   --leading-m: 1.3;
   --leading-l: 1.35;
 
+  /* Tracking */
+  --tracking-m: 1px;
+
   /* Font wight */
   --font-weight-regular: 400;
   --font-weight-medium: 500;
